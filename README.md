@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/JO0OJ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JO0OJ&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JO0OJ&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JO0OJ&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JO0OJ&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 
@@ -49,3 +49,4 @@
   <a href="www.linkedin.com/in/f%C3%A1bio-santos-31065023b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" target="_blank"></a>
 </div>
 
+![Snake animation](https://github.com/jO0OJ/JO0OJ/blob/output/github-contribution-grid-snake.svg)
