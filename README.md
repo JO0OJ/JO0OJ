@@ -1,6 +1,6 @@
 ### "Hello Wolrd", Eu sou Fabio e estou no caminho para ser um Dev Full-Stack
 
-- 💕 Apaixonada por jogos, criação e desenvolvimento!
+- 💕 Apaixonado por jogos, criação e desenvolvimento!
 
 <div align="center">
   <a href="https://github.com/JO0OJ">
