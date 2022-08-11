@@ -50,3 +50,4 @@
 </div>
 
 ![Snake animation](https://github.com/jO0OJ/JO0OJ/blob/output/github-contribution-grid-snake.svg)
+ 
